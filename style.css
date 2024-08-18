@@ -74,5 +74,9 @@ button:hover{
 }
 
 ul li{
-    font-family:"Poppins", sans-serif;;
+    font-family:"Poppins", sans-serif;   
+    background-color: #f5ebe0;
+    border-radius: 1rem;
+    box-shadow: 0.1rem 0.1rem 0.1rem 0.1rem black;
+    padding-left: 0.8rem;
 }
